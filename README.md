@@ -1,5 +1,19 @@
 # 🏋️‍♂️🤖 AI-Powered Fitness Microservices
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-BA0000?logo=keycloak&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white)
+![Eureka](https://img.shields.io/badge/Eureka-FF6F00?logo=java&logoColor=white)
+
+---
 ## 📘 Overview
 
 **AI-Powered Fitness Microservices** is a robust, scalable, and secure fitness tracking platform built on a
